@@ -71,11 +71,11 @@ Python 3.10
 ## 📁 Project Structure
 
 ```
-CodeAlpha_StockMarketAnalytics/
+tockMarketAnalytics/
 │
-├── StockMarket_Analytics_CodeAlpha.ipynb   ← Main notebook (all 4 tasks)
+├── StockMarket_Analytics.ipynb   ← Main notebook (all 4 tasks)
 │
-├── stocks_clean.csv                        ← Cleaned stock dataset
+├── stocks_clean_sample.csv                        ← Cleaned stock dataset
 ├── stocks_sentiment_results.csv            ← Sentiment analysis results
 │
 ├── stocks_dashboard.png                    ← Master analytics dashboard
@@ -90,7 +90,7 @@ CodeAlpha_StockMarketAnalytics/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YourUsername/CodeAlpha_StockMarketAnalytics.git
+git clone https://github.com/alysaqiib/CodeAlpha_StockMarketAnalytics.git
 ```
 
 **2. Install dependencies**
@@ -100,7 +100,7 @@ python -m textblob.download_corpora
 ```
 
 **3. Open the notebook**
-- Upload `StockMarket_Analytics_CodeAlpha.ipynb` to [Google Colab](https://colab.research.google.com)
+- Upload `StockMarket_Analytics.ipynb` to [Google Colab](https://colab.research.google.com)
 - Upload `all_stocks_5yr.csv` from Kaggle when prompted
 - Run all cells from top to bottom ▶️
 
@@ -109,7 +109,7 @@ python -m textblob.download_corpora
 ## 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/muhammad-ali-495819283)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/YourUsername)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/alysaqiib)
 
 ---
 
