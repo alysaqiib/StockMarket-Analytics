@@ -1,4 +1,4 @@
-# 📈 Stock Market Analytics — Data Analytics Internship Project
+#  Stock Market Analytics — Data Analytics Internship Project
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?style=flat&logo=pandas)
@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 A complete **end-to-end Data Analytics project** on S&P 500 Stock Market data covering data collection, exploratory data analysis, data visualization, and sentiment analysis on financial news.
 
@@ -16,28 +16,28 @@ A complete **end-to-end Data Analytics project** on S&P 500 Stock Market data co
 
 ---
 
-## ✅ Tasks Completed
+##  Tasks Completed
 
 | # | Task | Description |
 |---|------|-------------|
-| 1 | 📂 Data Collection | Loaded & cleaned S&P 500 stock price data |
-| 2 | 🔍 Exploratory Data Analysis | Price trends, volatility, correlations, hypothesis testing |
-| 3 | 📊 Data Visualization | 8 charts + master dashboard using Matplotlib & Seaborn |
-| 4 | 💬 Sentiment Analysis | Classified financial news headlines using TextBlob & VADER |
+| 1 |  Data Collection | Loaded & cleaned S&P 500 stock price data |
+| 2 |  Exploratory Data Analysis | Price trends, volatility, correlations, hypothesis testing |
+| 3 |  Data Visualization | 8 charts + master dashboard using Matplotlib & Seaborn |
+| 4 |  Sentiment Analysis | Classified financial news headlines using TextBlob & VADER |
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
-- 📊 **Opening price** is an extremely strong predictor of closing price (correlation > 0.99)
-- 📉 **Volume alone** does not predict daily returns
-- 🏆 Majority of S&P 500 stocks **gained value** between 2013 and 2018
-- 💬 Financial news headlines tend to be **mixed** — both positive and negative in sentiment
-- ⚠️ Some stocks showed **extreme volatility** while others remained very stable
+-  **Opening price** is an extremely strong predictor of closing price (correlation > 0.99)
+-  **Volume alone** does not predict daily returns
+-  Majority of S&P 500 stocks **gained value** between 2013 and 2018
+-  Financial news headlines tend to be **mixed** — both positive and negative in sentiment
+-  Some stocks showed **extreme volatility** while others remained very stable
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 
 | Chart | Description |
 |-------|-------------|
@@ -52,7 +52,7 @@ A complete **end-to-end Data Analytics project** on S&P 500 Stock Market data co
 
 ---
 
-## 🛠 Tools & Libraries
+##  Tools & Libraries
 
 ```
 Python 3.10
@@ -68,7 +68,7 @@ Python 3.10
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 tockMarketAnalytics/
@@ -86,7 +86,7 @@ tockMarketAnalytics/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 **1. Clone the repository**
 ```bash
@@ -102,11 +102,11 @@ python -m textblob.download_corpora
 **3. Open the notebook**
 - Upload `StockMarket_Analytics.ipynb` to [Google Colab](https://colab.research.google.com)
 - Upload `all_stocks_5yr.csv` from Kaggle when prompted
-- Run all cells from top to bottom ▶️
+- Run all cells from top to bottom 
 
 ---
 
-## 📬 Connect with Me
+##  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/muhammad-ali-495819283)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/alysaqiib)
